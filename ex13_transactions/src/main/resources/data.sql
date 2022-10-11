@@ -1,0 +1,2 @@
+INSERT INTO account VALUES (DEFAULT, 'Pesho', 1000);
+INSERT INTO account VALUES (DEFAULT, 'Gosho', 1000);
